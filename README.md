@@ -4,7 +4,7 @@
 **chuanjin/chuanjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-#### I am a software developer, freelancer consultant and entroproneur.
+#### I am a software developer, freelance consultant and entrepreneur.
 
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning anything
