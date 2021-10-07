@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Chuan Jin.
+### Hi there 👋, this is CJ.
 
 <!--
 **chuanjin/chuanjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-#### You can also call me CJ in short, I am software developer, freelancer consultant.
+#### I am a software developer, freelancer consultant and entroproneur.
 
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning anything
