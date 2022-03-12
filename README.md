@@ -8,7 +8,7 @@
 
 - 🥇 <b>Specialties</b> : Software Development, System Architecture, IoT, Web Apps, DevOps, CI/CD, embedded system
 - 💽 <b>Programming</b> : Python, Go, C/C++, Java, JavaScript, Shell script, Ruby, Erlang/Elixir, Rust
-- 🗃 <b>Frontend</b> : Vue.js, Nuxt.js, React, Next.js, Gatstsby, TailwindCSS, Bulma
+- 🗃 <b>Frontend</b> : Vue.js, Nuxt.js, React, Next.js, Gatsby, TailwindCSS, Bulma
 - 🗃 <b>Backend</b> : Flask, FastAPI, Ruby on Rails, Django, Node.js, Phoenix, Sails.js
 - 🌧 <b>Gloud</b> : GCP, AWS, Azure, Heroku
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, Firebase, Supabase
