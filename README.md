@@ -64,14 +64,12 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chuanjin&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
 
+<!--
 <a href="https://github.com/perfectdev000/perfectdev000">
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chuanjin&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
 
 
-
-
-<!--
 ![GitHub metrics](https://metrics.lecoq.io/chuanjin)  
 
 
