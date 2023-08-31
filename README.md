@@ -59,12 +59,12 @@
 
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=chuanjin&column=7&theme=nord" alt="perfectdev000" /></p>
 
+<!--
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=chuanjin&show_icons=true&include_all_commits=true&theme=tokyonight">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chuanjin&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
 
-<!--
 <a href="https://github.com/perfectdev000/perfectdev000">
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chuanjin&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
