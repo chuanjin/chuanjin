@@ -7,12 +7,13 @@
 #### I am a software developer, freelance consultant and entrepreneur.
 
 - 🥇 <b>Specialties</b> : Software Development, System Architecture, IoT, Web Apps, DevOps, CI/CD, embedded system
-- 💽 <b>Programming</b> : Python, JavaScript, TypeScript, Shell script, Go, C/C++, Java, Ruby, Erlang/Elixir, Rust
+- 💽 <b>Programming</b> : Python, Shell Script, Go, JavaScript/TypeScript, C/C++, Java, Erlang/Elixir, Ruby, Rust
 - 🗃 <b>Frontend</b> : Next.js, React.js, Nuxt.js, Vue.js, TailwindCSS, Bulma
 - 🗃 <b>Backend</b> : Flask, FastAPI, Ruby on Rails, Django, Node.js, Phoenix, Sails.js
-- 🌧 <b>Cloud</b> : GCP, AWS, Azure, Heroku
+- 🌧 <b>Cloud</b> : GCP, AWS, Azure, Firebase, Vercel, Heroku
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, Firebase, Supabase
-- ⚖ <b>DevOps</b> : Kubernetes, Docker, Chef, SaltStack, Fabric, Ansible, Jenkins, GoCD, Vagrant
+- ⚖ <b>DevOps</b> : Docker, Kubernetes, GitlabCI, Github Actions, Jenkins, Zuul, Ansible
+- 😄 <b>Work env</b> : Linux, Git, Zsh, Neovim, Alacritty, Docker, i3
 - 🛵 <b>Interested area</b> : Linux, Open Source, System Automation, Blockchain, Internet of Things, Web applications, Security
 
 - 🔭 I’m currently working on my own projects 
