@@ -1,62 +1,63 @@
-### Hi there 👋, this is CJ.
+# Hi there, I'm CJ 👋
 
-<!--
-**chuanjin/chuanjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I’m a Senior Software Developer, DevOps & Cloud Consultant, and Entrepreneur with extensive experience building scalable, reliable systems — from embedded IoT to cloud-native SaaS platforms.
 
-#### I am a software developer, freelance consultant and entrepreneur.
+- 🔭 **Current Focus:** SaaS, Cloud DevOps, IoT platforms, system automation, open-source.  
+- 📌 **Previously:** Worked with Volvo, Daimler, Ericsson, Telenor, Zeekr and startups.  
+- 🚀 **Interests:** Linux systems, automation, cloud infrastructure, scalable backend architecture.  
+- 🌱 **Learning:** Product design, UX, business strategy, growth & marketing.  
+- 💬 **Ask me about:** DevOps workflows, cloud-native architectures, distributed systems, and system automation.  
+- 📫 **Reach me:** <chuan.jin.813@gmail.com>
 
-- 🥇 <b>Specialties</b> : Software Development, System Architecture, IoT, Web Apps, DevOps, CI/CD, embedded system
-- 💽 <b>Programming</b> : Python, Shell Script, Go, JavaScript/TypeScript, C/C++, Java, Erlang/Elixir, Ruby, Rust
-- 🗃 <b>Frontend</b> : Next.js, React.js, Nuxt.js, Vue.js, TailwindCSS, Bulma
-- 🗃 <b>Backend</b> : Flask, FastAPI, Ruby on Rails, Django, Node.js, Phoenix, Sails.js
-- 🌧 <b>Cloud</b> : GCP, AWS, Azure, Firebase, Vercel, Heroku
-- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, Firebase, Supabase
-- ⚖ <b>DevOps</b> : Docker, Kubernetes, GitlabCI, Github Actions, Jenkins, Zuul, Ansible
-- 😄 <b>Work env</b> : Linux, Git, Zsh, Neovim, Alacritty, Docker, i3
-- 🛵 <b>Interested area</b> : Linux, Open Source, System Automation, Blockchain, Internet of Things, Web applications, Security
+---
 
-- 🔭 I’m currently working on my own projects 
-- 🌱 I’m currently learning product design, marketing and business
-- 👯 I’m looking to collaborate on anything possibilities
-- 💬 Ask me about anything 
-- 📫 Reach me: chuan.jin.813@gmail.com
+## Technologies & Tools
 
+### Cloud & Platforms
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=7C22F7&vCenter=true&width=500&lines=It+is+never+too+old+to+learn;Fortune+favors+the+bold)](https://git.io/typing-svg)
-----------------------
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=Google-Cloud) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=Microsoft-Azure)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chuanjin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chuanjin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3238064/chuan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chuanjin.me/)  
+### DevOps & Infrastructure
 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes) ![GitlabCI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=GitLab) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=GitHub-Actions)
 
+### Languages
 
-### Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript)  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C) ![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B) ![Java](https://img.shields.io/badge/-Java-007396?logo=Java)
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-<!--
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
--->
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-<!--
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
--->
+### Frameworks & Libraries
 
+- **Frontend:** React, Next.js, Vue.js, Nuxt.js  
+- **Backend:** FastAPI, Flask, Django, Rails, Node.js, Phoenix  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Supabase
 
+### Operating Systems & Tools
 
+Linux, Git, Zsh, Neovim, i3, Alacritty, Docker
+
+---
+
+## What I’m Working On
+
+I’m actively building and contributing to projects in:
+
+- Cloud automation tools
+- SaaS products with end-to-end DevOps workflows
+- Open-source tooling for developer productivity
+
+I update my repositories regularly — **feel free to explore my pinned projects below**.
+
+---
+
+## Let’s Connect
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)](https://github.com/chuanjin)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/chuanjin/)  
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=StackOverflow)](https://stackoverflow.com/users/3238064/chuan)  
+[![Homepage](https://img.shields.io/badge/-Website-4AB197?logo=readme)](https://chuanjin.me)
+
+---
 
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=chuanjin&column=7&theme=nord" alt="perfectdev000" /></p>
 
@@ -70,19 +71,13 @@
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chuanjin&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
 
-
 ![GitHub metrics](https://metrics.lecoq.io/chuanjin)  
-
 
 ![Profile views](https://gpvc.arturio.dev/chuanjin)  
 -->
-
-
 
 <p align="left">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
   <img src="https://komarev.com/ghpvc/?username=chuanjin&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" />
 
 </p>
-
- 
