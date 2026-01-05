@@ -59,8 +59,6 @@ I update my repositories regularly — **feel free to explore my pinned projects
 
 ---
 
-<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=chuanjin&column=7&theme=nord" alt="perfectdev000" /></p>
-
 <!--
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=chuanjin&show_icons=true&include_all_commits=true&theme=tokyonight">
