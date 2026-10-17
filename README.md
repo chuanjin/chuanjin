@@ -43,26 +43,22 @@ If you have an idea, product challenge, or partnership opportunity, let’s talk
 
 ### Cloud & Platforms
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=Google-Cloud)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=Microsoft-Azure)
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
+</p>
 
 ### DevOps & Infrastructure
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes)
-![GitlabCI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=GitLab)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=GitHub-Actions)
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,github,ansible,terraform" />
+</p>
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B)
-![Java](https://img.shields.io/badge/-Java-007396?logo=Java)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts" />
+</p>
 
 ### Frameworks & Data
 
@@ -86,9 +82,9 @@ I actively build and contribute to projects in:
 
 ## Let’s Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)](https://github.com/chuanjin)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/chuanjin/)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=StackOverflow)](https://stackoverflow.com/users/3238064/chuan)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/chuanjin)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chuanjin/)
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/3238064/chuan)
 [![Website](https://img.shields.io/badge/-Website-4AB197?logo=readme)](https://chuanjin.me)
 
 ---
