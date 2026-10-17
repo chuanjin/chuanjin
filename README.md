@@ -2,11 +2,11 @@
 
 I help teams turn complex ideas into reliable products — from embedded IoT systems to cloud-native SaaS platforms.
 
-I’m a **Senior Software Developer**, **DevOps & Cloud Consultant**, and **Entrepreneur** with hands-on experience across startup and enterprise environments.
+I’m a **Senior Software Developer**, **DevOps & Cloud Architect**, and **Entrepreneur** with hands-on experience across startup and enterprise environments.
 
 ---
 
-## Why People Work With Me
+## Work With Me
 
 - 🚀 **End-to-end builder:** I can take products from architecture and MVP to production scale.
 - 🛠️ **Execution focused:** I prioritize practical, maintainable solutions that move business metrics.
@@ -18,8 +18,8 @@ I’m a **Senior Software Developer**, **DevOps & Cloud Consultant**, and **Entr
 ## Background Snapshot
 
 - 📌 Worked with **Volvo, Daimler, Ericsson, Telenor, Zeekr**, and multiple startups.
-- 🔭 Current focus: **SaaS**, **Cloud DevOps**, **IoT platforms**, and **automation systems**.
-- 🌱 Expanding into: **Product design, UX, business strategy, growth, and marketing**.
+- 🔭 Current focus: **AI**, **SaaS**, **Cloud Infrastructure**, **IoT platforms**, and **automation systems**.
+- 🌱 Expanding into: **Product design, UX, growth, and marketing**.
 - 💬 Ask me about: **Cloud-native architecture, DevOps workflows, distributed systems, and automation**.
 
 ---
@@ -28,7 +28,7 @@ I’m a **Senior Software Developer**, **DevOps & Cloud Consultant**, and **Entr
 
 I’m currently open to:
 
-- ✅ Technical consulting for cloud/devops and backend architecture
+- ✅ Technical consulting for cloud/devops and fullstack architecture
 - ✅ Startup collaborations (CTO/advisor/technical partner style)
 - ✅ Product build partnerships (MVP → scalable platform)
 - ✅ Select business opportunities aligned with developer tools, SaaS, and automation
@@ -57,7 +57,7 @@ If you have an idea, product challenge, or partnership opportunity, let’s talk
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts,bash,rust,elixir" />
 </p>
 
 ### Frameworks & Data
@@ -91,5 +91,5 @@ I actively build and contribute to projects in:
 
 <p align="left">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-  <img src="https://komarev.com/ghpvc/?username=chuanjin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=chuanjin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
 </p>
